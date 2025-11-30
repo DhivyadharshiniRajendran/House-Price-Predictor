@@ -45,4 +45,4 @@ Dataset used: [`kc_house_data.csv`](https://www.kaggle.com/datasets/harlfoxem/ho
 
 Make sure the dataset is placed at:
 ```r
-"D:\\Rakshu\\Rprogramming\\Rproject1\\kc_house_data.csv"
+"C:\Users\DHIVYADHARSHINI R\OneDrive\Desktop\PACKAGES\R\HousePricePredictor\kc_house_data.csv"

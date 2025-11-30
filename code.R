@@ -5,8 +5,8 @@ library(dplyr)
 library(corrplot)
 
 
-data <- read.csv("D:\\Rakshu\\Rprogramming\\Rproject1\\kc_house_data.csv")
-
+##data <- read.csv("D:\\Rakshu\\Rprogramming\\Rproject1\\kc_house_data.csv")
+data <- read.csv("C:\Users\DHIVYADHARSHINI R\OneDrive\Desktop\PACKAGES\R\HousePricePredictor\kc_house_data.csv")
 
 data$date <- as.Date(data$date, "%Y%m%dT000000")
 data$total_sqft <- data$sqft_living + data$sqft_living15
